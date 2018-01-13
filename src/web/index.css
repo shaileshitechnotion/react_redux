@@ -1,0 +1,30 @@
+.site-menu {
+  height: 62px;
+  background: #57247e;
+  padding: 1.2rem; }
+
+
+.menu-title {
+  color: #fff !important; }
+
+  .breadcrumbs {
+    position: relative;
+    z-index: auto;
+    border-bottom: 1px solid #E5E5E5;
+    background-color: #F5F5F5;
+    min-height: 41px;
+    line-height: 40px;
+    padding: 0 12px 0 0;
+    padding-top: 15px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
